@@ -7,7 +7,10 @@
 
 body {
     background-color: #fff;
-    background-image: url("https://1.dam.s81c.com/m/497fcb8b381159ff/original/04012020-ls-covid-19-response-24121-mobile-720x360.jpg");
+    background-image: url("https://1.dam.s81c.com/m/497fcb8b381159ff/original/04012020-ls-covid-19-response-24121-mobile-720x360.jpg"),
+                      url("https://spectrum.ieee.org/image/MzU5MzU1Nw.jpeg"),
+                      url("https://cnet2.cbsistatic.com/img/G5uxkfVtlazOnhRXtSMC4ZZKiPk=/1200x675/2020/03/17/fb401153-4120-47ce-97c1-bb939ed8bccf/coronavirus-covid-19-global-cases-johnshopkinscsse-mar172020.jpg"),
+                      url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTY7eQV6EH44KvOLvnWopMT16FCHTQ2-DACPBeq545fXiyV6tFW&usqp=CAU");                                                      ;
 }
 
 p, h1, h2 {
@@ -36,7 +39,7 @@ h1.title {
     margin-top: 1em;
     margin: 0;
     padding: 0;
-    color: #262626;
+    color: #FFFFFF;
 }
 
 h2 {
