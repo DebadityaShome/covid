@@ -1,4 +1,3 @@
-
 *, html, body {
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   margin: 0;
@@ -8,6 +7,7 @@
 
 body {
     background-color: #fff;
+    background-image: url("https://1.dam.s81c.com/m/497fcb8b381159ff/original/04012020-ls-covid-19-response-24121-mobile-720x360.jpg");
 }
 
 p, h1, h2 {
