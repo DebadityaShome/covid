@@ -48,7 +48,7 @@ h2 {
   font-size: 15px;
   margin: 0;
   padding: 0;
-  color: #666;
+  color: #FFA500;
   font-weight: normal;
 }
 
@@ -126,7 +126,7 @@ button:focus {
     background-color: #ffb2ae;
     border-radius: 9px;
     margin: 20px;
-    border: 1px solid red;
+    border: 3px solid red;
     color: red;
     font-weight: bold;
     font-size: 20px;
